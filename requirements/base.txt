@@ -1,0 +1,7 @@
+Django
+django-rest-framework
+django-versatileimagefield
+django-ckeditor
+django-cors-headers
+djoser
+django-filter
