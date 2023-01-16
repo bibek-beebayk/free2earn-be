@@ -102,3 +102,5 @@ REST_FRAMEWORK = {
     #     'sustained': '50/day'
     # }
 }
+
+AUTH_USER_MODEL = 'users.User'
