@@ -2,7 +2,6 @@
 __pycache__
 .idea
 *.log
-*.sqlite3
 be/settings/env.py
 env/
 media/
